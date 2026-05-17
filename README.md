@@ -43,7 +43,7 @@ Unique Customers
 New Customers
 Revenue Trends by Year
 Category-wise Revenue Analysis
-![Overview Dashboard](images/Overview%20Dashboard.png)
+![Overview Dashboard](Overview%20Dashboard.png)
 
 2️⃣ Orders & Revenue Dashboard
 
@@ -53,7 +53,7 @@ Revenue vs Discount
 Orders vs Discount
 Country-wise Sales Distribution
 Category-wise Order Trends
-![Orders & Revenue](images/Orders%20%26%20Revenue.png)
+![Orders & Revenue](Orders%20%26%20Revenue.png)
 
 3️⃣ Customer Insights Dashboard
 
@@ -64,7 +64,8 @@ Membership Tier Analysis
 Gender Distribution
 RFM Segmentation
 Customer Acquisition Channels
-![Customer Insights](images/Customer%20Insights.png)
+![Customer Insights](Customer%20Insights.png)
+
 
 4️⃣ Product Insights Dashboard
 
@@ -75,7 +76,8 @@ Revenue Performance
 Return Rate Analysis
 Delivery Speed Impact
 Product Performance Categories
-![Product Insights](images/Product%20Insights.png)
+![Product Insights](Product%20Insights.png)
+
 
 5️⃣ Inventory & Stocks Dashboard
 
@@ -86,7 +88,7 @@ Reorder Status
 Inventory Turnover
 Low Stock Products
 Restocking Requirements
-![Inventory & Stocks](images/Inventory%20%26%20Stocks.png)
+![Inventory & Stocks](Inventory%20%26%20Stocks.png)
 
 🚀 Business Impact
 
