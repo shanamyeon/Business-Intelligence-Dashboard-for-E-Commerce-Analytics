@@ -6,11 +6,11 @@ The dashboard transforms raw business data into actionable insights through dyna
 
 The project focuses on helping businesses make data-driven decisions by identifying:
 
--Revenue trends
--Customer purchasing patterns
--High-performing products
--Inventory risks
--Customer segmentation and retention opportunities
+- Revenue trends
+- Customer purchasing patterns
+- High-performing products
+- Inventory risks
+- Customer segmentation and retention opportunities
 
 🎯 Goal of the Dashboard
 
